@@ -1,7 +1,7 @@
-# Problème avec Galons.ca
+# Problème depuis 2023-12-14 - 09:00
 Je voulais juste laisser le monde savoir qu'il y a un problème avec le serveur and que je suis en train de vérifier cela.
 
-# Galons.ca Issue
+# Issue since 2023-12-14 - 09:00
 I just wanted to let people know that there is currently a hardware issue and that I am looking into it.
 
 ## Timeline
