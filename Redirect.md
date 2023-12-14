@@ -5,7 +5,6 @@ Je voulais juste laisser le monde savoir qu'il y a un problème avec le serveur 
 I just wanted to let people know that there is currently a hardware issue and that I am looking into it.
 <br/><br/>
 <br/><br/>
-<br/><br/>
 ## Impacted Services
 - Plex
 - Ombi
@@ -13,6 +12,11 @@ I just wanted to let people know that there is currently a hardware issue and th
 - GalonsBot Discord Bot
 - Home Assistant
 
+## Comments
+- Data should be safe.
+- Medias should still be there once the server boots back up.
+<br/><br/>
+<br/><br/>
 ## Timeline
 - 10:30
   - Might be facing a motherboard issue. If it is that, replacement could take days.
