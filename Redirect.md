@@ -3,9 +3,9 @@ Je voulais juste laisser le monde savoir qu'il y a un problème avec le serveur 
 
 # Galons.ca Issue
 I just wanted to let people know that there is currently a hardware issue and that I am looking into it.
-
-
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 ## Impacted Services
 - Plex
 - Ombi
