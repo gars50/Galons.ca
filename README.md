@@ -6,11 +6,11 @@ I just wanted to let people know that there is currently a hardware issue and th
 
 ## Timeline
 - 2023-12-14 - 15:30
-  - About 90% sure the motherboard has stopped working correctly. 10% it's the CPU. Have to decide on next actions.
+  - About 50% sure the motherboard has stopped working correctly. 50% it's the CPU. Have to decide on next actions.
 - 2023-12-14 - 11:00
   - Published this website.
 - 2023-12-14 - 10:30
-  - Might be facing a motherboard issue. If it is that, replacement could take days.
+  - Might be facing a motherboard / CPU issue. If it is that, replacement could take days.
 - 2023-12-14 - 09:00
   - After Windows server updates, the server could not restart by itself.
 
