@@ -5,6 +5,8 @@ Je voulais juste laisser le monde savoir qu'il y a un problème avec le serveur 
 I just wanted to let people know that there is currently a hardware issue and that I am looking into it.
 
 ## Timeline
+- 2023-12-15 - 14:30
+  - Everything is back up and running.
 - 2023-12-15 - 13:30
   - OS and RAID are healthy. Verifying virtual machines, then services.
   - Service might come back online, but I will be working on them, so do not expect it work.
