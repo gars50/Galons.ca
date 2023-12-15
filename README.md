@@ -5,6 +5,10 @@ Je voulais juste laisser le monde savoir qu'il y a un problème avec le serveur 
 I just wanted to let people know that there is currently a hardware issue and that I am looking into it.
 
 ## Timeline
+- 2023-12-15 - 12:00
+  - Some good news. The new motherboard works with the CPU / GPU. My assumption that the motherboard was bad was correct.
+  - Next step will be to check the boot drive and ensure Windows works well with the new motherboard. Then add the RAID back to the machine (All medias / backups) and perform a health check. Then start services again.
+  - If everything is green, I'm expecting services to be back around 3pm.
 - 2023-12-15 - 11:00
   - Proceeding with the cleaning / install.
 - 2023-12-14 - 22:30
