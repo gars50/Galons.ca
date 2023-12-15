@@ -5,6 +5,8 @@ Je voulais juste laisser le monde savoir qu'il y a un problème avec le serveur 
 I just wanted to let people know that there is currently a hardware issue and that I am looking into it.
 
 ## Timeline
+- 2023-12-14 - 22:30
+  - I have no cleaning material to replace the CPU / Motherboard. Will have to go to the store tomorrow.
 - 2023-12-14 - 19:30
   - Going out to buy a used motherboard at 20:00. Will be installing it at 20:30 or so.
 - 2023-12-14 - 15:30
