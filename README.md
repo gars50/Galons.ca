@@ -1,5 +1,5 @@
-# Problème depuis 2025-03-25 - 09:30
-Je voulais juste laisser le monde savoir que j'ai du débrancher mon internet pour changer mon routeur. En ce moment, je n'ai plus accès à internet jusqu'à 11:30
+# Problème depuis 2025-06-08 - 00:30
+Ombi et SeenIt ne seront pas disponibles pour l'instant. Plex va continuer à fonctionner encore. De retour dans quelques jours.
 
-# Issue since 2023-03-25 - 09:30
-I just wanted to let everyone know that I had to unplug my internet to change my router. Right now, I have no internet access until 11:30.
+# Issue since 2023-06-08 - 00:30
+Ombi and SeenIt will not be available for now. Plex will continue to work. Back in a few days.
