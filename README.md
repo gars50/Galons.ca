@@ -1,5 +1,5 @@
-# Problème depuis 2025-06-08 - 00:30
-Ombi et SeenIt ne seront pas disponibles pour l'instant. Plex va continuer à fonctionner encore. De retour dans quelques jours.
+# Problème depuis 2025-07-05 - 10:00
+Tout est arrêté, je suis en train de migrer vers le nouveau Plex. De retour aujourd'hui/demain
 
-# Issue since 2023-06-08 - 00:30
-Ombi and SeenIt will not be available for now. Plex will continue to work. Back in a few days.
+# Issue since 2025-07-05 - 10:00
+Everything is stopped, I am migrating to the new Plex. Back today/tomorrow.
