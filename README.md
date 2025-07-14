@@ -1,6 +1,8 @@
 # Issue since 2025-06-08 - 00:30
 Ombi and SeenIt will not be available for now. Plex will continue to work. Back in a few days.
 ## Timeline
+- 2025-07-13 - 20:00
+  - New disks bought. Shipping soon. Arriving Jul 15 - 21.
 - 2025-07-06 - 16:00
   - OS and disks migrated. Plex should be operational again.
   - I have to move data around as I want to rebuild the disk RAID for more storage. Disks will be bought soon.
