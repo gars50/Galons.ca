@@ -3,3 +3,5 @@ All services are down. Moving them to a new location. Expect services to be back
 ## Timeline
 - 2025-08-17 - 15:00
   - Unplugged both servers to move them to the new location.
+- 2025-08-17 - 21:00
+  - Transfer done.
